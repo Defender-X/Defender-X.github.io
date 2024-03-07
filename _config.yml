@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Defender-X"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Defender-X.png"
   bio              : "Defender-X의 보안에 대한 이해를 넓히는 블로그입니다"
   location         : "South Korea"
   email            :
@@ -122,6 +122,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCwDtVKhpvalzyO9QGIrz8TA"
+
+
+  
 
 # Site Footer
 footer:
@@ -133,6 +139,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCwDtVKhpvalzyO9QGIrz8TA"
 
 
 # Reading Files
